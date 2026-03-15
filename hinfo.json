@@ -1,0 +1,12 @@
+{
+  "info":  {
+  "name": "restructured-sdk"
+  "refersign": "$#"
+  "gitrepo": "$#/ReStructUred-sdk"
+  }
+  "types":  {
+    "ts"
+  }
+}
+    
+    
